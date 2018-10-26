@@ -1,0 +1,117 @@
+{
+    "listName": "Open List",
+    "author": "Pierre",
+    "version": "0.0.1",
+    "description": "testList",
+    "website": "www.studiolooklook.com",
+    "lastSaved": "2018-10-26T17:22:27.627Z",
+    "chapters": [
+        {
+            "id": "jnm6bsqa",
+            "name": "My List #1",
+            "Color": "Green",
+            "collapsed": false,
+            "paragraphs": [
+                {
+                    "id": "jnm6bsqb",
+                    "name": "Textjes",
+                    "data": [
+                        {
+                            "id": "jnm9ka2l",
+                            "type": "header",
+                            "content": "A Cool Header",
+                            "class": "XL",
+                            "grid": "box-6"
+                        },
+                        {
+                            "id": "jnm9kh2c",
+                            "type": "text",
+                            "grid": "box-12",
+                            "content": "adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. "
+                        },
+                        {
+                            "id": "jnq9lvtr",
+                            "type": "image",
+                            "grid": "box-6",
+                            "src": "https://cdn.pixabay.com/photo/2017/08/01/08/29/people-2563491_960_720.jpg",
+                            "alt": "Image url not working"
+                        },
+                        {
+                            "id": "jnq9j492",
+                            "type": "image",
+                            "grid": "box-6",
+                            "src": "https://cdn.pixabay.com/photo/2018/10/18/19/02/woman-3757184_960_720.jpg",
+                            "alt": "Image url not working"
+                        },
+                        {
+                            "id": "jnqa7dn0",
+                            "type": "text",
+                            "grid": "box-6",
+                            "content": "adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. "
+                        },
+                        {
+                            "id": "jnq9nc30",
+                            "type": "text",
+                            "grid": "box-6",
+                            "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. "
+                        },
+                        {
+                            "id": "jnq9muhf",
+                            "type": "link",
+                            "grid": "box-6",
+                            "description": "Check This out bro",
+                            "link": "Empty"
+                        },
+                        {
+                            "id": "jnq9nh6d",
+                            "type": "link",
+                            "grid": "box-6",
+                            "description": "Check This out bro",
+                            "link": "Empty"
+                        }
+                    ]
+                },
+                {
+                    "id": "jnm6buun",
+                    "name": "Code",
+                    "data": [
+                        {
+                            "id": "jnq9sf6c",
+                            "type": "quote",
+                            "grid": "box-12",
+                            "content": "Images JEAAH"
+                        },
+                        {
+                            "id": "jnq9qbdu",
+                            "type": "image",
+                            "grid": "box-3",
+                            "src": "https://cdn.pixabay.com/photo/2018/03/12/12/32/woman-3219507_960_720.jpg",
+                            "alt": "Image url not working"
+                        },
+                        {
+                            "id": "jnq9s7g9",
+                            "type": "image",
+                            "grid": "box-3",
+                            "src": "https://cdn.pixabay.com/photo/2018/03/12/12/32/woman-3219507_960_720.jpg",
+                            "alt": "Image url not working"
+                        },
+                        {
+                            "id": "jnq9rpjx",
+                            "type": "image",
+                            "grid": "box-3",
+                            "src": "https://cdn.pixabay.com/photo/2015/07/09/00/29/woman-837156_960_720.jpg",
+                            "alt": "Image url not working"
+                        },
+                        {
+                            "id": "jnq9s4lw",
+                            "type": "image",
+                            "grid": "box-3",
+                            "src": "https://cdn.pixabay.com/photo/2015/07/09/00/29/woman-837156_960_720.jpg",
+                            "alt": "Image url not working"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
