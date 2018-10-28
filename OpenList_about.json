@@ -1,1 +1,38 @@
-{"listName":"My OpenList","author":"Pierre","version":"0.0.1","description":"Create your own lists! Fast and Easy","website":"www.looklook.yv","lastSaved":"2018-10-28T10:53:51.639Z","chapters":[{"id":"jnm6bsqa","name":"About","Color":"Green","collapsed":false,"paragraphs":[{"id":"jnsqi829","name":"Introduction","data":[{"id":"jnsqiat1","type":"header","grid":"box-12","content":"Introduction OpenList; a tool for listmakers !","class":"M"},{"id":"jnsqit3a","type":"text","grid":"box-12","content":"Hello! This is OpenList! OpenList is designed to create meaningfull lists with simple means that are easy shareable and free to use. You can create good looking list containing:\n\n- Code snippets\n- Blogs\n- Favourite youtube video's\n- Spanish - English practice\n- Cooking recipies.\n- Your own creations\n\nJust press the switch in the upper right corner and start Listing !"}]}]}],"listSource":"https://raw.githubusercontent.com/PierreIsCoding/open_list/master/testlist-1.json"}
+{
+    "listName": "My OpenList",
+    "author": "Pierre",
+    "version": "0.0.1",
+    "description": "Create your own lists! Fast and Easy",
+    "website": "www.looklook.tv",
+    "lastSaved": "2018-10-28T10:53:51.639Z",
+    "listSource": "https://raw.githubusercontent.com/PierreIsCoding/open_list/master/OpenList_about.json",
+    "chapters": [
+        {
+            "id": "jnm6bsqa",
+            "name": "About",
+            "Color": "Green",
+            "collapsed": false,
+            "paragraphs": [
+                {
+                    "id": "jnsqi829",
+                    "name": "Introduction",
+                    "data": [
+                        {
+                            "id": "jnsqiat1",
+                            "type": "header",
+                            "grid": "box-12",
+                            "content": "Introduction OpenList; a tool for listmakers !",
+                            "class": "M"
+                        },
+                        {
+                            "id": "jnsqit3a",
+                            "type": "text",
+                            "grid": "box-12",
+                            "content": "Hello! This is OpenList! OpenList is designed to create meaningfull lists with simple means that are easy shareable and free to use. You can create good looking list containing:\n\n- Code snippets\n- Blogs\n- Favourite youtube video's\n- Spanish - English practice\n- Cooking recipies.\n- Your own creations\n\nJust press the switch in the upper right corner and start Listing !"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
